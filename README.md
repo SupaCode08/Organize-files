@@ -31,4 +31,4 @@ A fast, lightweight, and efficient Windows Batch script to automatically organiz
 ## ⚠️ Security
 This script only performs `move` operations within its current directory. It does not delete any files.
 
-Developed by [Au (SupaCode08)](https://github.com/SupaCode08)
+Developed by [(SupaCode08)](https://github.com/SupaCode08)
